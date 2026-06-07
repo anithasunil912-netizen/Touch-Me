@@ -3,10 +3,13 @@ With Love Twips Efx
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <audio control audioutoplay loop>
-        <source src="Aval Swaasam.mp3">
-        <source src="Aval Swaasam.mva">
-    </audio>
+     <title> Audio Tag</title>
+    </head>
+    <body>
+        <audio controls loop>
+            <source src="Aval Swaasam.mp3" type="audio/mp3">
+        </audio>
+    </body>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Happy Birthday 𝐌𝐄𝐑𝐈𝐍 ❤️</title>
