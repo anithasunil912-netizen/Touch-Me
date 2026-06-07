@@ -2,7 +2,6 @@
 With Love Twips Efx
 <!DOCTYPE html>
 <html lang="en">
-<head>
      <title> Audio Tag</title>
     <body>
         <audio controls loop>
