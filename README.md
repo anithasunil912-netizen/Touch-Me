@@ -3,6 +3,11 @@ With Love Twips Efx
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    html> 
+    <audio contraudioutoplay loop>
+        <source src="Aval Swaasam.mp3" type="audio/mpeg">
+        <source src="Aval Swaasam.wav" type="audio/wav">
+    </audio>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Happy Birthday 𝐌𝐄𝐑𝐈𝐍 ❤️</title>
@@ -294,7 +299,4 @@ reveal();
 
 </body>
 </html> 
-    <audio controls autoplay loop>
-        <source src="Aval Swaasam.mp3" type="audio/mpeg">
-        <source src="Aval Swaasam.wav" type="audio/wav">
-    </audio>
+    
