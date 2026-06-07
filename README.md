@@ -3,7 +3,7 @@ With Love Twips Efx
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <audio contraudioutoplay loop>
+    <audio control audioutoplay loop>
         <source src="Aval Swaasam.mp3">
         <source src="Aval Swaasam.mva">
     </audio>
@@ -297,5 +297,4 @@ reveal();
 </script>
 
 </body>
-</html> 
-    
+</html>
