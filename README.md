@@ -181,7 +181,7 @@ body{
 </div>
 
 <div class="polaroid reveal">
-    <img src="7635134e-745e-4af1-9791-8d5482451870.png">
+    <img src="b.png">
     <div class="caption">Grace, beauty and kindness ✨</div>
 </div>
 
