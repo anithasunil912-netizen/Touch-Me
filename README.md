@@ -176,7 +176,7 @@ body{
 <section class="gallery">
 
 <div class="polaroid reveal">
-    <img src="a.png"> 
+    <img src="g.png"> 
     <div class="caption">𝐀 smile that brightens every day ❤️</div>
 </div>
 
@@ -196,12 +196,12 @@ body{
 </div>
 
 <div class="polaroid reveal">
-    <img src="0b99d295-f53c-4980-b4b7-bae3c218a293-wm.png">
+    <img src="e.png">
     <div class="caption">Golden moments forever 📸</div>
 </div>
 
 <div class="polaroid reveal">
-    <img src="805a4b90-e4b1-40e4-911d-b4f124151d59.png">
+    <img src="f.png">
     <div class="caption">The most beautiful soul ❤️</div>
 </div>
 
