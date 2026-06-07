@@ -4,7 +4,6 @@ With Love Twips Efx
 <html lang="en">
 <head>
      <title> Audio Tag</title>
-    </head>
     <body>
         <audio controls loop>
             <source src="Aval Swaasam.mp3" type="audio/mp3">
